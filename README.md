@@ -1,2 +1,2 @@
 # ripgso
-This is an macroassembler and interpreter of machine code for a simplest computer. This computer has a Harvard architecture and performs a NOR operation on the bits in the data memory in an infinite loop. Memory mapped data memory bits are used to interact with the outside world. The first bits, except for the very first one, are used as input bits, and the last ones are used for output. The default data memory size is 32 kibibits.
+This is an synchronous logic minimizer to installation NOR elements and flip-flops. Based on Quine–McCluskey algorithm.
